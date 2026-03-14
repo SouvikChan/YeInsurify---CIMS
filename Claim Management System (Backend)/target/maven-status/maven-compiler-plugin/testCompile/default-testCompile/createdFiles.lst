@@ -1,0 +1,4 @@
+com\demo\Junit\ControllerClassTest\MemberControllerTest.class
+com\demo\Junit\ControllerClassTest\ClaimControllerTest.class
+com\demo\Junit\ControllerClassTest\PlanControllerTest.class
+com\demo\ClaimManagementApplicationTests.class
