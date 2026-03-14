@@ -83,3 +83,10 @@ yeInsurify-IMS
 │
 └── database
 └── PostgreSQL schema
+
+## 📂 Project Screenshot
+
+![alt text](<Screenshot 2026-03-14 155536-1.png>)
+![alt text](<Screenshot 2026-03-14 155956-1.png>)
+![alt text](<Screenshot 2026-03-14 160421-1.png>)
+![alt text](<Screenshot 2026-03-14 160708-1.png>)
