@@ -84,6 +84,8 @@ yeInsurify-IMS
 └── database
 └── PostgreSQL schema
 
+---
+
 ## 🖼️ Project Screenshot
 
 ![Dashboard](<images/ChatGPT Image Mar 14, 2026, 04_41_55 PM.png>) ![Policy Page](<images/ChatGPT Image Mar 14, 2026, 04_10_37 PM.png>) ![Claims Page](<images/ChatGPT Image Mar 14, 2026, 04_06_00 PM.png>) ![Party Page](<images/ChatGPT Image Mar 14, 2026, 04_03_51 PM.png>) ![Process Claim Page](<images/ChatGPT Image Mar 14, 2026, 04_08_56 PM.png>)
