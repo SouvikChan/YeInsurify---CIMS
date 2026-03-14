@@ -86,7 +86,4 @@ yeInsurify-IMS
 
 ## 📂 Project Screenshot
 
-![alt text](<Screenshot 2026-03-14 155536-1.png>)
-![alt text](<Screenshot 2026-03-14 155956-1.png>)
-![alt text](<Screenshot 2026-03-14 160421-1.png>)
-![alt text](<Screenshot 2026-03-14 160708-1.png>)
+![alt text](<ChatGPT Image Mar 14, 2026, 04_41_55 PM.png>) ![alt text](<ChatGPT Image Mar 14, 2026, 04_10_37 PM.png>) ![alt text](<ChatGPT Image Mar 14, 2026, 04_06_00 PM.png>) ![alt text](<ChatGPT Image Mar 14, 2026, 04_03_51 PM.png>) ![alt text](<ChatGPT Image Mar 14, 2026, 04_08_56 PM.png>)
