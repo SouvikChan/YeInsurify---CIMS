@@ -83,10 +83,3 @@ yeInsurify-IMS
 │
 └── database
 └── PostgreSQL schema
-
-![Login Page](Screenshot 2026-03-14 155536.png)
-![Dashboard](Screenshot 2026-03-14 160708.png)
-
-[Insurance Dashboard](Screenshot 2026-03-14 160708.png)
-
-![Alt Text](Screenshot 2026-03-14 160708.png)
